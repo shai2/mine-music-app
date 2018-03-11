@@ -1,4 +1,15 @@
 ### 参考慕课qq音乐music-app全手写实例
+
+如需预览请
+
+>clone到本地
+
+>$ cnpm i //未上传node_modules
+
+>$ npm run dev
+
+>http://localhost:8880/
+
 #### 部分实例截图
 ![第1张-首页推荐](https://github.com/shai2/mine-music-app/blob/master/static/1.png)
 ###### 歌手列表
