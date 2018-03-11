@@ -36,7 +36,7 @@
 - switches 选项卡效果实现
 - top-tip tip提示
 
-#### 非完整版预览（部分通过node.js伪造的referer与host发送的请求失效{'推荐歌单','歌词'}）
+#### 非完整版预览（f12手机模式,部分通过node.js伪造的referer与host发送的请求失效{'推荐歌单','歌词'}）
 https://shai2.github.io/mine-music-app/dist/index.html#/recommend
 
 #### 如需预览完整版请
